@@ -1,0 +1,15 @@
+{
+  "name": "language-rexx",
+  "version": "0.0.0",
+  "description": "Rexx language support in Atom",
+  "keywords": [
+    "language",
+    "rexx",
+    "IBM"
+  ],
+  "repository": "https://github.com/justinwt1/language-rexx",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
